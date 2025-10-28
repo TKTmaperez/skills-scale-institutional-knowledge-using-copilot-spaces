@@ -27,7 +27,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles: (see [Roles and Personas](octoacme-roles-and-personas.md))
+  - Project Manager:
+  - Product Manager:
+  - Developers:
+  - UX Designer (if applicable):
+  - Business Analyst (if applicable):
+  - DevOps Engineer:
+  - QA Lead:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead

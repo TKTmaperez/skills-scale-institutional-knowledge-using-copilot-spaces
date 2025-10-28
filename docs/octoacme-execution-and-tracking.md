@@ -22,6 +22,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- QA Lead coordinates test execution and reports quality metrics
+
+For detailed quality coordination across roles, see the [Cross-Functional Collaboration Checklist](octoacme-collaboration-checklist.md).
 
 ## Reporting & Metrics
 - Track velocity and burndown
