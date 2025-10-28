@@ -8,9 +8,9 @@ OctoAcme employs a structured, iterative approach to project management that emp
 
 Our project lifecycle follows a clear progression through distinct phases, each with specific objectives and deliverables. Projects begin with **Initiation**, where we validate business needs, align stakeholders, and define success criteria through lightweight project one-pagers. This transitions into **Planning**, where the team breaks work into shippable increments, estimates scope, identifies dependencies and risks, and establishes a release timeline. During **Execution and Tracking**, teams maintain a steady rhythm of daily standups, weekly syncs, and regular demos while using project boards and pull request workflows to drive progress. Throughout execution, **Risk Management and Communication** practices ensure transparency through regular status updates, maintained risk registers, and clear escalation paths when issues arise.
 
-Quality is embedded throughout the development process, with teams following established testing standards including unit tests for new logic, integration tests where applicable, end-to-end smoke tests for critical flows, and security scanning in CI pipelines. Projects culminate in structured **Release and Deployment** processes that include deployment checklists, verification steps, rollback plans, and communication to stakeholders. Finally, **Retrospectives and Continuous Improvement** sessions after each sprint, release, or milestone capture learnings and convert them into actionable improvements, ensuring the team constantly evolves and refines their practices.
+Quality is embedded throughout the development process, with teams following established testing standards including unit tests for new logic, integration tests where applicable, end-to-end smoke tests for critical flows, and security scanning in CI pipelines. QA Leads coordinate quality assurance activities and ensure acceptance criteria are met before releases. Projects culminate in structured **Release and Deployment** processes that include deployment checklists, verification steps, rollback plans, and communication to stakeholders, with DevOps Engineers ensuring reliable infrastructure and automated deployments. Finally, **Retrospectives and Continuous Improvement** sessions after each sprint, release, or milestone capture learnings and convert them into actionable improvements, ensuring the team constantly evolves and refines their practices.
 
-The documentation suite also defines key **Roles and Personas** - including Developers, Product Managers, and Project Managers - with clear responsibilities, goals, and communication patterns. These role definitions help team members understand expectations and facilitate effective collaboration across functions. Together, these processes and practices create a cohesive framework that enables OctoAcme teams to deliver customer value consistently while maintaining flexibility to adapt based on project needs and team learnings.
+The documentation suite also defines key **Roles and Personas** - including Developers, Product Managers, Project Managers, UX Designers, Business Analysts, DevOps Engineers, and QA Leads - with clear responsibilities, goals, and communication patterns. These role definitions help team members understand expectations and facilitate effective collaboration across functions. Together, these processes and practices create a cohesive framework that enables OctoAcme teams to deliver customer value consistently while maintaining flexibility to adapt based on project needs and team learnings.
 
 ## Process Documents
 
@@ -23,7 +23,14 @@ Explore the detailed process documents below to understand specific workflows, t
 - **[Risk Management and Communication](octoacme-risks-and-communication.md)** - How to identify, assess, and mitigate risks while maintaining effective stakeholder communication
 - **[Release and Deployment Guide](octoacme-release-and-deployment.md)** - Standardized release processes, deployment checklists, testing requirements, and rollback procedures
 - **[Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** - Capturing learnings and converting them into actionable improvements after sprints, releases, and incidents
-- **[Roles and Personas](octoacme-roles-and-personas.md)** - Detailed definitions of Developer, Product Manager, and Project Manager roles with responsibilities and communication patterns
+- **[Roles and Personas](octoacme-roles-and-personas.md)** - Detailed definitions of Developer, Product Manager, Project Manager, UX Designer, Business Analyst, DevOps Engineer, and QA Lead roles with responsibilities and communication patterns
+
+## Templates and Checklists
+
+Additional resources to enhance collaboration and clarity:
+
+- **[Cross-Functional Collaboration Checklist](octoacme-collaboration-checklist.md)** - Coordination checklist across all roles throughout the project lifecycle
+- **[Acceptance Criteria Template](octoacme-acceptance-criteria-template.md)** - Structured format for writing clear, testable acceptance criteria with examples
 
 ## Getting Started
 
