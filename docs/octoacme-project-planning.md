@@ -16,10 +16,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+For detailed role-specific responsibilities during planning, see the [Cross-Functional Collaboration Checklist](octoacme-collaboration-checklist.md).
+
 ## Backlog Item Template
 - Title:
 - Description:
-- Acceptance criteria:
+- Acceptance criteria: (see [Acceptance Criteria Template](octoacme-acceptance-criteria-template.md))
 - Priority:
 - Estimate:
 - Owner:
@@ -38,6 +40,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
+- [ ] Business Analyst has documented acceptance criteria
+- [ ] UX Designer has provided initial designs (if applicable)
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted by QA Lead
+- [ ] DevOps Engineer has reviewed infrastructure needs
