@@ -13,7 +13,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Passing CI and security scans
 - QA Lead sign-off on test completion
 - Release notes drafted
-- Rollback / mitigation plan documented by DevOps Engineer
+- Rollback / mitigation plan documented by assigned DevOps Engineer
 - Smoke tests prepared
 
 ## Deployment Checklist
